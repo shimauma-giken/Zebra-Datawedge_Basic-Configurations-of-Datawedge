@@ -138,8 +138,7 @@ DataWedgeにおいてはスキャンデータの前後に任意のデータを�
 
 <br/>
 
-<img width="200" src="https://techdocs.zebra.com/emdk-for-android/6-7/mx/data-capture/data-capture-plus/dcp_minimized.png">   
-<img width="200" src="https://techdocs.zebra.com/emdk-for-android/6-7/mx/data-capture/data-capture-plus/dcp_maximized.png">
+<img width="200" src="https://techdocs.zebra.com/emdk-for-android/6-7/mx/data-capture/data-capture-plus/dcp_minimized.png"> <img width="200" src="https://techdocs.zebra.com/emdk-for-android/6-7/mx/data-capture/data-capture-plus/dcp_maximized.png">
 
 <br/>
 
