@@ -162,8 +162,11 @@ DataWedgeにおいてはスキャンデータの前後に任意のデータを�
 
 ### トリガーモード設定
 
-<img src="https://images.squarespace-cdn.com/content/v1/5ff4dd35a9c11936ae2eecb2/1628624557917-LULILGXWPQS07L4BH0JE/zebra-android-warehouse.jpg">
+<img src="https://www.zebra.com/content/dam/zebra_dam/global/zcom-web-production/web-production-photography/web002/faq-difference-between-multi-modal-and-voice-directed-picking-hero-photography-website-16x9-3600x2025.jpg.imgo.jpg">
 
+<br/>
+
+バーコードをスキャンするタイミングは業務によって様々です。１つ１つ確実に読み取りをするピッキングのような業務もあれば、連続して大量の読み取りをする入庫タスクもあります。最も効率の良いスキャン業務をサポートするため、DataWedgeにはスキャントリガー押下時のスキャン処理方法を設定することができます。
 
 <br/>
 
@@ -171,6 +174,8 @@ DataWedgeにおいてはスキャンデータの前後に任意のデータを�
 1. DataWedgeを起動 > [設定対象のプロファイル] を選択します。
 2. "バーコード入力"カテゴリ >  スキャナ設定 > リーダーパラメーター > 照準タイプ
 1. 良く利用される設定項目は下記を参照。
+
+<br/>
 
 |設定項目| 機能 | 処理終了条件 |
 |-|-|-|
@@ -181,6 +186,8 @@ DataWedgeにおいてはスキャンデータの前後に任意のデータを�
 |押して待機         |トリガー押下後に任意の時間だけ読み取りを継続| スキャン成功時 or 設定時間に到達した場合。
 |押して継続         |トリガー押下後に任意の設定時間だけ連続読み取りを継続。| 設定時間に到達した場合。
 |Timed Continuous   |トリガー押下後に任意の設定時間内に読み取りがあると、設定時間を0に戻し、スキャン処理を継続。|設定時間中にバーコードスキャンがなかった場合。|
+
+<br/>
 
 
 ---
