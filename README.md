@@ -64,6 +64,7 @@ DataWedgeにおいてはスキャン対象のバーコードタイプを取捨�
 
 
 設定例：EAN13 (JANコード/13,8桁)の選択
+
 <img height="500" src="./image/sample/1742635884259.png">
 
 <br/>
@@ -73,8 +74,9 @@ DataWedgeにおいてはスキャン対象のバーコードタイプを取捨�
 <br/>
 
 
-    スキャン例：
-    <img height="500" src="image/sample/1742636014574.png">
+スキャン例：
+
+<img height="500" src="image/sample/1742636014574.png">
 
 <br/>
 
@@ -101,16 +103,18 @@ DataWedgeにおいてはスキャンデータの前後に任意のデータを�
 <br/>
 
 
-    設定例：エンターキーを付与
-    <img height="500" src="image/sample/1742636545489.png">
+設定例：エンターキーを付与
+
+<img height="500" src="image/sample/1742636545489.png">
 <br/>
 
 
 
 1. テキストエディタ等でスキャン後にEnterキーが追加されていることが確認できます。
 
-    4901085647202をスキャンした例：
-    <img height="500" src="image/sample/1742637026818.png">
+4901085647202をスキャンした例：
+
+<img height="500" src="image/sample/1742637026818.png">
 <br/>
 
 
