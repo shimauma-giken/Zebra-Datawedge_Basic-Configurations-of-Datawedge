@@ -128,7 +128,7 @@ DataWedgeにおいてはスキャンデータの前後に任意のデータを�
 
 ##### 参考リンク
 
-[DataWedge 11.0 - ADF](https://techdocs.zebra.com/datawedge/dw-jp/11-0/guide/process/adf/）
+[DataWedge 11.0 - ADF](https://techdocs.zebra.com/datawedge/dw-jp/11-0/guide/process/adf/)
 
 ---
 
