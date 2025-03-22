@@ -65,6 +65,7 @@ DataWedgeにおいてはスキャン対象のバーコードタイプを取捨�
 
     設定例：EAN13 (JANコード/13,8桁)の選択
     <img height="500" src="./image/sample/1742635884259.png">
+    
 <br/>
 
 
